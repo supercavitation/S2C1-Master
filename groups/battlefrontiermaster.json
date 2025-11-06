@@ -30,6 +30,11 @@
     "chargedMoves": ["BLAST_BURN","AIR_CUTTER"]
   },
   {
+    "speciesId": "charizard_mega_y",
+    "fastMove": "DRAGON_BREATH",
+    "chargedMoves": ["BLAST_BURN","AIR_CUTTER"]
+  },
+  {
     "speciesId": "dialga",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["IRON_HEAD", "DRACO_METEOR"]
@@ -95,6 +100,11 @@
     "chargedMoves": ["MAGMA_STORM","STONE_EDGE"]
   },
   {
+    "speciesId": "ho_oh",
+    "fastMove": "INCINERATE",
+    "chargedMoves": ["SACRED_FIRE", "BRAVE_BIRD"]
+  },
+  {
     "speciesId": "kyogre",
     "fastMove": "WATERFALL",
     "chargedMoves": ["SURF","THUNDER"]
@@ -105,9 +115,9 @@
     "chargedMoves": ["FREEZE_SHOCK", "FUSION_BOLT"]
   },
   {
-    "speciesId": "lugia",
-    "fastMove": "DRAGON_TAIL",
-    "chargedMoves": ["FLY", "AEROBLAST"]
+    "speciesId": "kyurem_white",
+    "fastMove": "DRAGON_BREATH",
+    "chargedMoves": ["ICE_BURN", "FUSION_FLARE"]
   },
   {
     "speciesId": "lunala",
@@ -135,34 +145,14 @@
     "chargedMoves": ["DARK_PULSE","MOONGEIST_BEAM"]
   },
   {
-    "speciesId": "necrozma_dusk_mane",
-    "fastMove": "SHADOW_CLAW",
-    "chargedMoves": ["DARK_PULSE","SUNSTEEL_STRIKE"]
-  },
-  {
-    "speciesId": "necrozma_dusk_mane",
-    "fastMove": "SHADOW_CLAW",
-    "chargedMoves": ["IRON_HEAD","OUTRAGE"]
-  },
-  {
-    "speciesId": "palkia_origin",
-    "fastMove": "DRAGON_BREATH",
-    "chargedMoves": ["AQUA_TAIL", "SPACIAL_REND"]
-  },
-  {
     "speciesId": "primarina",
     "fastMove": "CHARM",
     "chargedMoves": ["HYDRO_CANNON","DISARMING_VOICE"]
   },
   {
-    "speciesId": "reshiram",
-    "fastMove": "DRAGON_BREATH", 
-    "chargedMoves": ["STONE_EDGE", "FUSION_FLARE"]
-  },
-  {
-    "speciesId": "scizor_mega",
-    "fastMove": "BULLET_PUNCH",
-    "chargedMoves": ["TRAILBLAZE","NIGHT_SLASH"]
+    "speciesId": "salamence_mega",
+    "fastMove": "DRAGON_TAIL",
+    "chargedMoves": ["BRUTAL_SWING", "FLY"]
   },
   {
     "speciesId": "slowbro_mega",
@@ -233,6 +223,11 @@
     "speciesId": "zarude",
     "fastMove": "VINE_WHIP",
     "chargedMoves": ["POWER_WHIP","DARK_PULSE"]
+  },
+  {
+    "speciesId": "zekrom",
+    "fastMove": "DRAGON_BREATH",
+    "chargedMoves": ["OUTRAGE", "FUSION_BOLT"]
   },
   {
     "speciesId": "zygarde_complete",
